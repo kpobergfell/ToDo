@@ -1,10 +1,12 @@
-Edit Hank's microscopy section of the grant
+Daily:
 
-Develop HPLC Ntd Western
+Transformation
 
-Heavy Streaks for Transforms
+MiniPrep and Freeze E. coli
 
-Pick Isolates PilT PilE Double Mutants
+Freeze PilT isolates
+
+Pick Erm Transformants
 
 
 Medium Term:
