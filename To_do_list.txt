@@ -1,13 +1,29 @@
 Daily:
 
-Transformation
+Saturday:
 
-MiniPrep and Freeze E. coli
+Freeze erm Transformants
 
-Freeze PilT isolates
+CLS regulatable pilT pile strains
 
-Pick Erm Transformants
+Pick S-pil double mutants
 
+Pull Transformant plates
+
+Do lauren's stuff = pull plates and streak erm transformants
+
+Make Hank's grant figure
+
+Sunday:
+
+Freeze S-pil Double mutants
+
+Count Transformants
+
+
+Monday:
+
+HPLC Run to get samples for AA identification - priority
 
 Medium Term:
 
