@@ -1,20 +1,10 @@
 Daily:
 
-Saturday:
+Sunday:
 
-Freeze erm Transformants
-
-CLS regulatable pilT pile strains
-
-Pick S-pil double mutants
-
-Pull Transformant plates
-
-Do lauren's stuff = pull plates and streak erm transformants
+PilE Pcr on reg pilT strains
 
 Make Hank's grant figure
-
-Sunday:
 
 Freeze S-pil Double mutants
 
@@ -29,6 +19,10 @@ Medium Term:
 
 Build Cloning Scheme for ATC inducible PilE
 
+Membrane Fractionation to look for Ntd
+
+Antibody Purification on Ntd Ab - for dot blots on membrane fraction 
+blots
 
 
 Long Term:
