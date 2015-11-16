@@ -1,19 +1,19 @@
 Daily:
 
-Sunday:
+Monday:
 
 PilE Pcr on reg pilT strains
 
 Make Hank's grant figure
 
-Freeze S-pil Double mutants
-
 Count Transformants
 
-
-Monday:
-
 HPLC Run to get samples for AA identification - priority
+
+Streaks:
+	RecA6 for S-pil Double Mutants
+	PilT mutants for Pilus Prepping
+	Patch PilT for sequencing
 
 Medium Term:
 
