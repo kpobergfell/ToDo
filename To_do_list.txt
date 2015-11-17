@@ -1,19 +1,33 @@
 Daily:
 
-Monday:
+Tuesday:
 
-PilE Pcr on reg pilT strains
+Exo SAp and submit IPTG Reg PilE
 
-Make Hank's grant figure
+Figure Out AA composition submission
 
-Count Transformants
+Lawn Streak:
+	RecA6 for S-pil Double into Gc
 
-HPLC Run to get samples for AA identification - priority
+CLS and PCR DeltaPilT isolates
+
+Seminar and Lunch with Dr. Randall
 
 Streaks:
-	RecA6 for S-pil Double Mutants
+
 	PilT mutants for Pilus Prepping
-	Patch PilT for sequencing
+	Stuff for paper western - all single mutant 
+	strains
+
+Wednesday:
+
+Transformation - PilE doubles into RecA6
+
+Get Back sequences and confirm proper regPilT Strains
+
+Lawn Streaks: 
+	30 plates each for reg pilT
+	Plates for protein prep for paper
 
 Medium Term:
 
