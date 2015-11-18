@@ -1,37 +1,45 @@
 Daily:
 
-Tuesday:
- Just checking remotes!
-Exo SAp and submit IPTG Reg PilE
+Today:
 
 Figure Out AA composition submission
 
-Lawn Streak:
-	RecA6 for S-pil Double into Gc
-
-CLS and PCR DeltaPilT isolates
-
-Seminar and Lunch with Dr. Randall
-
-Streaks:
-
-	PilT mutants for Pilus Prepping
-	Stuff for paper western - all single mutant 
-	strains
-
-Wednesday:
+Submit DeltaPilT doubles for sequencing
 
 Transformation - PilE doubles into RecA6
 
 Get Back sequences and confirm proper regPilT Strains
 
-Lawn Streaks: 
-	30 plates each for reg pilT
-	Plates for protein prep for paper
+Go To seminar in Evanston
+
+
+Thursday:
+
+Build Cloning Scheme for ATC inducible PilE
+
+Pick PilE Doubles and Restreak
+
+Pilus Preps
+
+Pour gels
+
+Lab Meeting: brainstorming idea
+
+
+Friday:
+
+Freeze down PilE doubles
+
+Run Pilus Prep gels and do westerns
+
+Patch PilE doubles 
+
+Go to Seminar in Evanston
+
 
 Medium Term:
 
-Build Cloning Scheme for ATC inducible PilE
+Edit Manuscript
 
 Membrane Fractionation to look for Ntd
 
